@@ -4,7 +4,9 @@
 ##### It's been quite different than what I am used to. For starters, I am not in the ATL, but instead Cali, Northern California to be exact. Before I committed to Tuskegee University, I was presented with the opportunity to partake in a summer program in Cali at UC Berkeley. I know what you're thinking? Summer school? But hear me out. It was - or rather is - an all expense paid trip to study my respective major of Computer Science all while getting paid to take the class! Getting paid to take classes is a literal dream and one of the best opportunities one could posisbly have - especially as a freshemn student. 
 
 
-###### Anyways, zoom past a
+##### Anyways, zoom past several months and it's time for me to go Cali. The day preparing to leave was quite memorable seeing as the morning I ate breakfast in North Carolina, had lunch in Atlanta, and ate a $20 wing combo in California (which is the most I have ever spent on fast food). 
+
+## to be continued 
 _when there are millions and millions of students paying for their education whereas I am getting paid for my education._ 
 
 
