@@ -16,11 +16,9 @@
 #### Not to brag, but you've just read an article or blog or whatever you want to call it from a celebrity. That's right, a celebrity. I have not one, but two articles with my face - along with the 12 other Tuskegee University students - on the FRONT page of BOTH Tuskegee University and UC Berkeley's webiste. If you'd like to learn more about the program and partnerships between the two prominent institutions, a link of the article on both websites are attached below! Thanks for reading about my experience in Cali and I hope to write one soon regarding my TU experience. For all my TU current students and proud alumni, TU!! YOU KNOW!! 
 
 
-#### https://www.tuskegee.edu/news/tuskegee-university-and-uc-berkeley-data-science-partnership-announced
-#### https://data.berkeley.edu/news/uc-berkeley-and-tuskegee-university-announce-data-science-partnership
-
 [Link](url) and ![Image](src)
-```
+https://www.tuskegee.edu/news/tuskegee-university-and-uc-berkeley-data-science-partnership-announced
+https://data.berkeley.edu/news/uc-berkeley-and-tuskegee-university-announce-data-science-partnership
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
