@@ -5,7 +5,7 @@
 
 
 #### Anyways, zoom past several months and it's time for me to go Cali. The day preparing to leave was quite memorable seeing as the morning of, I ate breakfast in North Carolina, had lunch in Atlanta, and ate a $20 wing combo in California (which is the most I have ever spent on fast food). The very next day was a holiday and after that, it was time to get to work. Within the first week, our TU cohort did a lot to say the least. We had a reception dinner at the Chancellor of UC Berkeley's ho and met both the President of Tuskegee University and the Chancellor of UC Berkeley. A couple of days later, we visited Google's Headquarters in Mountain View California, which was such an amazing experience. I could genuinely see myself working there one day and maybe even starting a company just as successful and innovative as Google. 
-
+ <img src="./Summer pic.JPG" style="width:50%; margin:auto; display:block">
 
 #### Skip past a couple of weeks and the official course begins. At first, it wasn't too difficult considering the two previous weeks, we were required to attend a coding bootcamp to prepare ourselves for the course. However, as the course progressed, it started to become a tad bit more difficult. Not necccesarily the content, but rather the pace in which the content was being presented and delivered. It seemed as if we were learning a new element of the coding world everyday. Despite the pace, I was determined to learn and truly understand the content considering this is the field I aspire to major in and make a career out of. 
 
