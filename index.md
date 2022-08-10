@@ -19,6 +19,7 @@
 
 
 [Tuskegee University and UC Berkeley Data Science Parternship Annoucnced](https://www.tuskegee.edu/news/tuskegee-university-and-uc-berkeley-data-science-partnership-announced)
+
 [UC Berkeley and Tuskegee University Data Science Parternship Annoucnced](https://data.berkeley.edu/news/uc-berkeley-and-tuskegee-university-announce-data-science-partnership)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
