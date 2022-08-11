@@ -12,7 +12,7 @@
 
 #### Asides from the quick pace of the course and freezing cold weather in Berkeley, California, I have had a memorable summer. I've met and got to spend quality family time with my mom's side of the family, which I desperately needed and gave me a sense of home. I have stood over the Golden Gate Bridge. I went to Stinson Beach and the Muir Woods, which had the prettiest views of nature (gotta love Cali's scenery). I visited Pier 39 with my cousins and went to one of the best ice creams spots ever - shoutout to Cream. I saw the fireworks from Coit Tower. Not to mention, I went down the curviest street in the world (shoutout to my cousins once more)!
  <img src="./Forest park.HEIC" style="width:50%; margin:auto; display:block">
-  <img src="./Golden gate.HEIC" style="width:50%; margin:auto; display:block">
+ <img src="./Golden gate.HEIC" style="width:50%; margin:auto; display:block">
 
 #### All in all, this summer has taught me a lot of things. More than I count, but there are three main lessons I'd like to share with not just seniors in high school, but everyone. The first one is don't be afraid to try new things and meet new people. Essentially, what I am trying to say is network! I am one of the most introverted extroverts ever and I personally have a hard time carrying a conversation with others, but had I not got out of my comfort zone, I would not have met the inteligent, well-rounded people I know today. The second lesson is adulting is no joke. Mommy and Daddy weren't holding my hand anymore, telli
 
